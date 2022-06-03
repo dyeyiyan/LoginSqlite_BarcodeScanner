@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/IOTPracticalExam/app/src/main/res/drawable/app_icon.xml" value="0.10208333333333333" />
+        <entry key="..\:/IOTPracticalExam/app/src/main/res/drawable/app_icon_sc.xml" value="0.10208333333333333" />
+        <entry key="..\:/IOTPracticalExam/app/src/main/res/drawable/button_round.xml" value="0.10208333333333333" />
+        <entry key="..\:/IOTPracticalExam/app/src/main/res/drawable/edit_text_round.xml" value="0.10208333333333333" />
+        <entry key="..\:/IOTPracticalExam/app/src/main/res/drawable/ic_face.xml" value="0.10208333333333333" />
+        <entry key="..\:/IOTPracticalExam/app/src/main/res/drawable/ic_lock.xml" value="0.10208333333333333" />
+        <entry key="..\:/IOTPracticalExam/app/src/main/res/font/roboto_black.xml" value="0.11614583333333334" />
+        <entry key="..\:/IOTPracticalExam/app/src/main/res/font/roboto_bold.xml" value="0.11614583333333334" />
+        <entry key="..\:/IOTPracticalExam/app/src/main/res/font/roboto_medium.xml" value="0.11614583333333334" />
+        <entry key="..\:/IOTPracticalExam/app/src/main/res/layout/activity_login.xml" value="0.14" />
+        <entry key="..\:/IOTPracticalExam/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/IOTPracticalExam/app/src/main/res/layout/activity_splash_screen.xml" value="0.1897644927536232" />
+        <entry key="..\:/IOTPracticalExam/app/src/main/res/layout/toolbar.xml" value="0.14492753623188406" />
+        <entry key="..\:/IOTPracticalExam/app/src/main/res/menu/burger.xml" value="0.19166666666666668" />
+        <entry key="..\:/LoginUsingSqliteWithBarcodeScanner/app/src/main/res/layout/activity_login.xml" value="0.18697916666666667" />
+        <entry key="..\:/LoginUsingSqliteWithBarcodeScanner/app/src/main/res/layout/activity_main.xml" value="0.19166666666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
